@@ -135,3 +135,10 @@ const personalMovieDB = {
         });
     }
 };
+
+personalMovieDB.start();
+personalMovieDB.rememberMyFilms();
+personalMovieDB.detectPersonalLevel();
+personalMovieDB.showmyDB();
+personalMovieDB.toggleVisibleMyDB();
+personalMovieDB.writeYourGenres();
